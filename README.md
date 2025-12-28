@@ -106,7 +106,7 @@ This project demonstrates:
 
 ## Author
 
-Built by Chris A as part of cloud infrastructure learning path.
+Built by me as part of cloud infrastructure learning path.
 
 ## License
 
